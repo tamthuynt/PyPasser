@@ -1,4 +1,4 @@
-from pypasser import reCaptchaV3
+from PyPasser/PyPasser/pypasser import reCaptchaV3
 import re
 import requests
 from requests.utils import dict_from_cookiejar
